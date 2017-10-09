@@ -7,3 +7,4 @@ My strange experiments with Python
 - [`sort_bubble.py`](/sort_bubble.py) — Example of Bubble sorting method
 - [`email_sender.py`](/email_sender.py) — Simple email send wizard
 - [`for_else.py`](/for_else.py) — **Very** str(ong|ange) test of `for..else` statement
+- [`win_clipboard.py`](/win_clipboard.py) — Try to read Windows clipboard text
