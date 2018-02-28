@@ -10,3 +10,4 @@ My strange experiments with Python
 - [`win_clipboard.py`](/win_clipboard.py) — Try to read Windows clipboard text
 - [`hashable.py`](/hashable.py) — Example of hashable class
 - [`http_server.py`](/http_server.py) — Basic HTTP Server with dynamic page generation
+- [`socket_server.py`](/socket_server.py) — Simplest socket server
