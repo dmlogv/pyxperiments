@@ -12,3 +12,4 @@ My strange experiments with Python
 - [`http_server.py`](/http_server.py) — Basic HTTP Server with dynamic page generation
 - [`socket_server.py`](/socket_server.py) — Simplest socket server
 - [`sakai.py`](/sakai.py) — Sakai top calculator
+- [`diff.py`](/diff.py) — Set-based diff
