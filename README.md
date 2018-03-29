@@ -13,3 +13,4 @@ My strange experiments with Python
 - [`socket_server.py`](/socket_server.py) — Simplest socket server
 - [`sakai.py`](/sakai.py) — Sakai top calculator
 - [`diff.py`](/diff.py) — Set-based diff
+- [`dynamic_dispatching.py`](/dynamic_dispatching.py) — Example of classes without real methods nor fields
