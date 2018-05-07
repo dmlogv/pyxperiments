@@ -14,3 +14,4 @@ My strange experiments with Python
 - [`sakai.py`](/sakai.py) — Sakai top calculator
 - [`diff.py`](/diff.py) — Set-based diff
 - [`dynamic_dispatching.py`](/dynamic_dispatching.py) — Example of classes without real methods nor fields
+- [`tracestack.py`](/tracestack.py) — Just used `tracestack` to find an error explanation. Need `tracestack`
