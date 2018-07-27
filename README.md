@@ -15,3 +15,4 @@ My strange experiments with Python
 - [`diff.py`](/diff.py) — Set-based diff
 - [`dynamic_dispatching.py`](/dynamic_dispatching.py) — Example of classes without real methods nor fields
 - [`tracestack.py`](/tracestack.py) — Just used `tracestack` to find an error explanation. Need `tracestack`
+- [`wx_checkbox_tree.py`](/wx_checkbox_tree.py) — wxPython Checkbox Tree Example
