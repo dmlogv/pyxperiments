@@ -16,3 +16,4 @@ My strange experiments with Python
 - [`dynamic_dispatching.py`](/dynamic_dispatching.py) — Example of classes without real methods nor fields
 - [`tracestack.py`](/tracestack.py) — Just used `tracestack` to find an error explanation. Need `tracestack`
 - [`wx_checkbox_tree.py`](/wx_checkbox_tree.py) — wxPython Checkbox Tree Example
+- [`socket_random_server.py`](/socket_random_server.py) — Socket server that push random data
