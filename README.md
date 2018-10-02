@@ -19,3 +19,4 @@ My strange experiments with Python
 - [`socket_random_server.py`](/socket_random_server.py) — Socket server that push random data
 - [`socket_client.py`](/socket_client.py) — Socket client to receive message from the `socket_random_server.py`
 - [`generator.py`](/generator.py) — Example of custom generator
+- [`logging.py`](/logging.py) — Logging module usage
