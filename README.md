@@ -20,3 +20,4 @@ My strange experiments with Python
 - [`socket_client.py`](/socket_client.py) — Socket client to receive message from the `socket_random_server.py`
 - [`generator.py`](/generator.py) — Example of custom generator
 - [`logging.py`](/logging.py) — Logging module usage
+- [`xml_serializable.py`](/xml_serializable.py) — Serialize object to XML using `lxml`. Need `lxml` (surprise!)
