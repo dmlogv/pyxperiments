@@ -21,3 +21,4 @@ My strange experiments with Python
 - [`generator.py`](/generator.py) — Example of custom generator
 - [`logging.py`](/logging.py) — Logging module usage
 - [`xml_serializable.py`](/xml_serializable.py) — Serialize object to XML using `lxml`. Need `lxml` (surprise!)
+- [`context_manager.py`](/context_manager.py) — Custom Context manager
