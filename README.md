@@ -23,3 +23,4 @@ My strange experiments with Python
 - [`xml_serializable.py`](/xml_serializable.py) — Serialize object to XML using `lxml`. Need `lxml` (surprise!)
 - [`context_manager.py`](/context_manager.py) — Custom Context manager
 - [`ascii_decode.py`](/ascii_decode.py) — Decode ASCII-encoded messages
+- [`load-urls-parallel.py`](/load-urls-parallel.py) — Parallel URLs loading using ThreadPoolExecutor
