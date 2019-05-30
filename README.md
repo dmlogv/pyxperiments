@@ -24,3 +24,4 @@ My strange experiments with Python
 - [`context_manager.py`](/context_manager.py) — Custom Context manager
 - [`ascii_decode.py`](/ascii_decode.py) — Decode ASCII-encoded messages
 - [`load-urls-parallel.py`](/load-urls-parallel.py) — Parallel URLs loading using ThreadPoolExecutor
+- [`object_registry.py`](/object_registry.py) — Object registry demonstration
