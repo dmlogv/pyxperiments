@@ -25,3 +25,4 @@ My strange experiments with Python
 - [`ascii_decode.py`](/ascii_decode.py) — Decode ASCII-encoded messages
 - [`load-urls-parallel.py`](/load-urls-parallel.py) — Parallel URLs loading using ThreadPoolExecutor
 - [`object_registry.py`](/object_registry.py) — Object registry demonstration
+- [`committer.py`](/committer.py) — Commit a bunch of forgotten files
